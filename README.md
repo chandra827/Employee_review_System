@@ -5,7 +5,8 @@ It is built using NodeJs, ExpressJs, MongoDB, EJS and JavaScript.
 
 ### 🔗 Hosted link: [Employee review system](https://employee-review-system-ul7m.onrender.com)
 
-![](./public/1.png)
+![image_2023-06-12_22-59-08](https://github.com/chandra827/Employee_review_System/assets/100562557/2e8b69ad-9793-445e-a30d-82ded26e4014)
+
 
 ## ⚙️ Functionality
 
